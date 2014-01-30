@@ -12,9 +12,10 @@ Idea
 Milestones
 ===========
 0.0.1: Proof-of-concept. Can mill+drill a PCB without intermediate manual steps.
-0.1.0: Minimally useful. Can mill+drill+paste a PCB ". Component placement and reflow done manually.
-0.2.0: Can mill+drill+paste+pick-and-place a PCB ". Solder reflow done manually.
-0.3.0: Can mill+drill+paste+pick-and-place+reflow a PCB ".
+0.1.0: Minimally useful. Can mill+drill+paste a PCB ". Board cutout, component placement and reflow done manually.
+0.2.0: Can mill+drill+cutout+paste a PCB ".
+0.3.0: Can mill+drill+paste+pick-and-place a PCB ". Solder reflow done manually.
+0.4.0: Can mill+drill+paste+pick-and-place+reflow a PCB ".
 x.0.0: Electroproto is available for purchase from several manufacturers, and can be made using standard fablab tools.
 
 TODO
