@@ -95,3 +95,8 @@ Links
 * [MIT POP Fab](http://mtm.cba.mit.edu): Mill, vinyl cutter, 3d printer in a suitcase.
 * [MIT reconfigurable stages](http://mtm.cba.mit.edu/machines/stages/). Idea for Z-axis?
 * [Stepper precison calculator](http://calculator.josefprusa.cz)
+
+SW
+====
+* PCB milling codegen: https://github.com/Traumflug/Visolate
+
