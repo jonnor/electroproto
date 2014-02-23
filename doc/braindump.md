@@ -95,8 +95,11 @@ Links
 * [MIT POP Fab](http://mtm.cba.mit.edu): Mill, vinyl cutter, 3d printer in a suitcase.
 * [MIT reconfigurable stages](http://mtm.cba.mit.edu/machines/stages/). Idea for Z-axis?
 * [Stepper precison calculator](http://calculator.josefprusa.cz)
+* [Shapeoko open hardware desktop CNC](https://www.inventables.com/technologies/desktop-cnc-mill-kit-shapeoko-2)
 
 SW
 ====
 * PCB milling codegen: https://github.com/Traumflug/Visolate
+* Kicad->Cyclone PCB Factory scripts->Printrun->Teacup firmware (-> and Gen7 hardware) to manufacture PB’s.
+* pcb2gcode: http://sourceforge.net/apps/mediawiki/pcb2gcode/index.php?title=Main_Page
 
