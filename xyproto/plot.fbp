@@ -1,0 +1,18 @@
+# Model
+rect(cad/RoundedRectangle) OUT -> MODEL model(cad/Translate)
+#
+'5' -> ROUNDRADIUS rect
+'50' -> WIDTH rect
+'50' -> HEIGHT rect
+
+# CAM
+model OUT -> MODEL workarea(cad/Translate) OUT -> MODEL paths(cad/ToOutlinePaths)
+paths OUT -> PATHS plotter(electroproto/Plotter)
+run(core/Kick) OUT -> RUN plotter
+#
+'500' -> X workarea
+'400' -> Y workarea
+'/dev/ttyACM0' -> DEVICE plotter
+
+# Run
+'true' -> IN run
