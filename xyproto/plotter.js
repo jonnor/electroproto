@@ -30,6 +30,15 @@ serialPort.on("open", function () {
     [workMax, workMin, sendDelay],
     [workMin, workMin, sendDelay]
   ]
+  positions = [
+    [100, 100, sendDelay],
+    [500, 500, sendDelay],
+    [700, 500, sendDelay],
+    [700, 700, sendDelay],
+    [500, 700, sendDelay],
+    [500, 500, sendDelay],
+    [100, 100, sendDelay],
+  ]
 //  positions = [ positions[0] ]
 
   var nextPos = function(index) {
