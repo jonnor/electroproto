@@ -14,7 +14,7 @@ Considerations
 =================
 * X-Y working area: 160x200mm, enough for 2x std EURO rack PCBs (or 1PCB+1pick-and-place tray)
 * Precision: ? Enough to do ICs like TQFP ML44
-* Z axis weight capacity: 0.5 kg, enough for dremel/multitool spindle
+* Z axis tool weight capacity: 0.5 kg, enough for dremel/multitool spindle
 
 The various tool heads should go as closely together as possible to minimize overhead for XY axis.
 
@@ -102,4 +102,20 @@ SW
 * PCB milling codegen: https://github.com/Traumflug/Visolate
 * Kicad->Cyclone PCB Factory scripts->Printrun->Teacup firmware (-> and Gen7 hardware) to manufacture PB’s.
 * pcb2gcode: http://sourceforge.net/apps/mediawiki/pcb2gcode/index.php?title=Main_Page
+
+
+Moving-Z carriage
+=====================
+Joakim at Bitraf came up with the idea of having the carriage be the Z-axis,
+to avoid having to create one per tool.
+
+* Required travel: 20mm, 5mm work + 15mm safe-Z (for avoiding components)
+* Required weight capacity: 100 gram? (mount-plate + PCB + components)
+* For drilling, needs to withhold the vertical force acted
+* For solder-paste, should be fast to be able to do many holes. Use very low safe-Z, 2-3 mm
+
+Due to the low travel required, could perhaps use a simple cam-follower, driven by a servo.
+
+* Cam principles: [Wikipedia](http://en.wikipedia.org/wiki/Cam), [cmu.edu](http://www.cs.cmu.edu/~rapidproto/mechanisms/chpt6.html)
+
 
