@@ -119,3 +119,12 @@ Due to the low travel required, could perhaps use a simple cam-follower, driven 
 * Cam principles: [Wikipedia](http://en.wikipedia.org/wiki/Cam), [cmu.edu](http://www.cs.cmu.edu/~rapidproto/mechanisms/chpt6.html)
 
 
+Host WS & User interface
+================
+
+Must be able to run on a cheap embedded device (like RPI).
+User interface should be browser based, requiring zero install of custom tools.
+Want people to be able to come into hackerspace with only their design and layout, and realize it.
+Want ability to build statistics of machine usage, to capture the live process on a video camera, and make time-lapses.
+Automatic publishing of these artifacts to show activity and results, improvements over time.
+
