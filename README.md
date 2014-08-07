@@ -27,9 +27,10 @@ Basic motion and testing with pen completed.
 TODO
 ======
 0.0.1:
-* Get 2 Dremels or similar cheap multitools. Cotech, Clas Ohlson?
-* Get or make 2 Z-axis with Dremel mounts. Multitool drill-press, Clas/Biltema? Alt: Reprap/thingiverse design
-* Hack them to be computer-controlled. Servo-motor or stepper?
+* Test/verify XY precision, speed using pen. Calculate requirements
+* Make Z-axis functional
+* Create toolmounts for dremel-like multi-tools
+* Mount mill+drill toolheads
 * Allow to input a set of Gerber files for the PCB traces and holes
 
 0.1.0:

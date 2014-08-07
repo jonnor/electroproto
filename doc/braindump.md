@@ -58,6 +58,13 @@ used by myself or others in hackerspace, or nice things to do workshops on.
 * Analog synth modules
 * Guitar effects
 * Sensorbricks!
+* Reprap motor drivers
+
+Reprap principles applied to electronics
+========================
+* Can the machine reproduce all its electronics?
+* Can it be built using (primarily) a reprap 3d-printer,
+and then be used to create the electronics for a reprap?
 
 
 SMT for non-SMD

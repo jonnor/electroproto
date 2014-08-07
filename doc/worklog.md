@@ -26,3 +26,18 @@ Decided to prototype a moving-bed with 4 axel screws driven by
 single step motor and belts next.
 
 10 hours.
+
+August 7-10, 2014
+-------------------
+Prototyping moving-bed Z-axis design using 4 leadscrews,
+driven by one common belt on a stepper-motor.
+Trivial solution hacked together using standard Makeblock parts was non-functional
+due instable motor mount, poor belt tension and too high friction in the leadscrews.
+
+Need to create custom motor bracket mount, belt tightener and add bearings to leadscrews.
+Also the standard 3d-printed model found for pulley of stepper motor
+had too small hole for the locking bolt and needs to be adopted.
+
+8 hours.
+
+
