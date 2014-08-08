@@ -38,6 +38,7 @@ Need to create custom motor bracket mount, belt tightener and add bearings to le
 Also the standard 3d-printed model found for pulley of stepper motor
 had too small hole for the locking bolt and needs to be adopted.
 
-8 hours.
+Designed & 3d-printed leadscrew bearing mounts.
 
+12 hours.
 
