@@ -27,8 +27,12 @@ Basic motion and testing with pen completed.
 TODO
 ======
 0.0.1:
-* Test/verify XY precision, speed using pen. Calculate requirements
+* CNC a top-plate for tool mounting, based on bottom plate design
 * Make Z-axis functional
+** Design & produce motor-mount + belt-tightener
+** Design & produce leadscrew bearing mounts
+** Fix locknut holes of stepper pulley
+* Test/verify XY precision, speed using pen. Calculate requirements
 * Create toolmounts for dremel-like multi-tools
 * Mount mill+drill toolheads
 * Allow to input a set of Gerber files for the PCB traces and holes

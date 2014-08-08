@@ -10,13 +10,19 @@ Chassis
 
 Z-axis
 
-* [28BYJ-48 stepper w/ ULN2003 driver](http://4tronix.co.uk/store/index.php?rt=product/product&keyword=stepper&product_id=196)
 * Additional alu profile+linear guides (Makeblock)
+* [28BYJ-48 stepper w/ ULN2003 driver](http://4tronix.co.uk/store/index.php?rt=product/product&keyword=stepper&product_id=196)
+* [3d-printed steppermotor pulley ](http://www.thingiverse.com/thing:113201)
 * 4 leadscrews pulleys (Makeblock)
-* Extra MXR belt (Makeblock)
+* Extra MXL belt (Makeblock)
 * 4mm plastic board (Clas Ohlson)
 
 Tools
 
 * Dremel-like multi-tool (Clas Ohlson)
 * Pneumatic solder-paste dispenser (DealExtreme)
+
+
+TODO
+------
+* 4mm internal (or maybe 3/16") bearings. (G. Heier, T. Meyers gt 7?)
