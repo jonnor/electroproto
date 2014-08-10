@@ -31,14 +31,21 @@ August 7-10, 2014
 -------------------
 Prototyping moving-bed Z-axis design using 4 leadscrews,
 driven by one common belt on a stepper-motor.
+Using M4 press-fit nut inserts in bed for receiving the leadscrews.
+
 Trivial solution hacked together using standard Makeblock parts was non-functional
 due instable motor mount, poor belt tension and too high friction in the leadscrews.
 
-Need to create custom motor bracket mount, belt tightener and add bearings to leadscrews.
-Also the standard 3d-printed model found for pulley of stepper motor
-had too small hole for the locking bolt and needs to be adopted.
+Designed & 3d-printed leadscrew bearing mounts. My first part created in FreeCAD.
 
-Designed & 3d-printed leadscrew bearing mounts.
+After testing with custom motor mount, dound that 28BYJ stepper motor was too weak.
+Changed to Makeblock stepper+driver. Uses stock belt pulley, also works better than 3d-printed.
 
-12 hours.
+Z-axis now basically functional.
+Still needs belt-tightener and fusing the belt to avoid joints too work properly.
+
+16 hours.
+
+NEXT
+-----
 
