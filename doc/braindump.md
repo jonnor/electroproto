@@ -10,6 +10,23 @@ Open questions
 * What kind of structure to use for joining the XY framing and the roof with heads?
 
 
+Related projects
+===================
+
+Firepick
+-----------
+* http://firepick.org
+* Open source
+* Electronics manufacturing machine
+* Focused on pick-and-place but attempting more
+* Same general motivation, but focused more on high-end/production use
+
+OpenPnP
+------
+* http://openpnp.org
+* Pick-and-place machine
+* Open source
+
 Considerations
 =================
 * X-Y working area: 160x200mm, enough for 2x std EURO rack PCBs (or 1PCB+1pick-and-place tray)

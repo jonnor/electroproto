@@ -22,22 +22,29 @@ DONE
 =====
 * Computer-controlled XY axis, based on Makerblock robot plotter kit.
 Basic motion and testing with pen completed.
-* Got a vacum-controlled solder dispenser, from DealExtreme.
+* Prototype Z axis based on moving bed created.
+* Vacum-controlled solder dispenser sourced, cheap china copy.
 
 TODO
 ======
-0.0.1:
+0.0.1: Proof-of-concept
+Goal: September, 2014
+
 * CNC a top-plate for tool mounting, based on bottom plate design
 * Make Z-axis functional
-** Design & produce motor-mount + belt-tightener
-** Design & produce leadscrew bearing mounts
-** Fix locknut holes of stepper pulley
+** Splice belt
+** Modify motor mount to include belt-tightening
 * Test/verify XY precision, speed using pen. Calculate requirements
 * Create toolmounts for dremel-like multi-tools
 * Mount mill+drill toolheads
 * Allow to input a set of Gerber files for the PCB traces and holes
+* Produce first real PCB
 
-0.1.0:
+
+0.1.0: Minimally useful
+Goal: November, 2014
+
 * Hack solder paster to be computer controlled, test.
+* Produce real PCB for demo
 * Improve Gerber input to also dispense solder paste on the PCB
 * Document the build for reproducability
