@@ -5,6 +5,13 @@ minimal manual steps once the process is started.
 ElectroProto aims to be cheap, small and safe/covenient enough that every hackerspace,
 and engineering individual, can have one - next to their 3d printer.
 
+Goals:
+* Optimized for prototyping, `1-10 boards`
+* `End-to-end`, raw materials in, assembly-ready electronics out
+* Complete board in `<1 hour`
+* `No manual intervention` required during process
+* Precise enough for `simple SMT designs`. 0805, SOIC
+
 Status
 =======
 Proof-of-concept in progress
