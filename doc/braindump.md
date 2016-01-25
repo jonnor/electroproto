@@ -112,6 +112,10 @@ with NxM nails in a YYY mil spaced grid where each nail can be individually rais
 The nails could maybe be controlled by linear actuators/solenoids, or be bi-stable such that they
 could be "poked down" at start of test run.
 
+References
+
+* [Instructables: How to build custom bed-of-nails tester](http://www.instructables.com/id/How-to-build-a-custom-bed-of-nails-tester-for-your)
+
 
 Links
 =======
